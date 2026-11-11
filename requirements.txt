@@ -1,0 +1,6 @@
+customtkinter>=5.2.2
+pycryptodome>=3.20.0
+opencv-python>=4.9.0,<5
+pillow>=10.0.0
+numpy>=1.26
+psutil>=5.9.8
